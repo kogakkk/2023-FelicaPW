@@ -1,7 +1,4 @@
-<<<<<<< HEAD
+
 felicaPW
 
 test
-=======
-felicaPW
->>>>>>> 56e4b57e66451f6ff381b06904fff6c72d5cc5e3
